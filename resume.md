@@ -57,6 +57,9 @@ Softwarekennis
 Contactinformatie
 -------
 >Basiel Smitz
+
 Molenaarsstraat 21 
+
 9000 Ghent
+
 basiel.smitz@student.arteveldehs.be
