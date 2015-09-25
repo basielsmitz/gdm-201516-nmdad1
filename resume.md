@@ -54,6 +54,7 @@ Softwarekennis
 |PHP Storm|goed|
 |Netbeans|goed|
 |BOB boekhoud programma|noties|
+
 Contactinformatie
 -------
 Basiel Smitz
