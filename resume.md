@@ -6,7 +6,7 @@ Biografie
 >Ik ben Basiel Smitz geboren te Gent op 3 januarie 1993. 
 Ik heb het meerendeel van mijn leven in de stad Eeklo doorgebracht.
 
->Dit jaar zit ik mijn 3de jaar op kot terug in Ghent. Waar ik eerst 
+>Dit jaar zit ik mijn 3de jaar op kot terug in Gent. Waar ik eerst 
 de richting Toegepaste Informatica volgde en in 2014 overstapte naar 
 de richting Grafische en Digitale media.
 
