@@ -1,3 +1,4 @@
+![LOGO](http://i.imgur.com/ibysLIp.png)
 Resume Basiel Smitz
 ================
 Biografie
