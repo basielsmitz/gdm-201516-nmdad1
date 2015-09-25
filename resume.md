@@ -11,7 +11,7 @@ de richting Grafische en Digitale media.
 
 Portfolio
 -------
-> hier komen links naar afgewerkte projecten.
+> Hier komen links naar afgewerkte projecten.
 
 Werkervaring
 -------
