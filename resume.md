@@ -56,7 +56,7 @@ Softwarekennis
 |BOB boekhoud programma|noties|
 Contactinformatie
 -------
->Basiel Smitz
+Basiel Smitz
 
 Molenaarsstraat 21 
 
