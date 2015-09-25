@@ -11,10 +11,10 @@ de richting Grafische en Digitale media.
 
 Portfolio
 -------
-tekst
+> hier komen links naar afgewerkte projecten.
 Werkervaring
 -------
-|Bedrijf|Periode|Soort|
+>|Bedrijf|Periode|Soort|
 |-------------|:------------:|-------|
 |AZ Alma Aankoop dienst|2012-2013|stage|
 |CC De Herbakker|2012|stage|
@@ -29,7 +29,7 @@ Werkervaring
 
 Kennis webtechnologieën
 -------
-|Software|kennis|
+>|Software|kennis|
 |-------------|:-------:|
 |JavaScript|matig|
 |JQuery|matig|
@@ -41,7 +41,7 @@ Kennis webtechnologieën
 
 Softwarekennis
 -------
-|Software|kennis|
+>|Software|kennis|
 |-------------|:-------:|
 |MS Word|goed|
 |MS Excel|goed|
@@ -55,10 +55,7 @@ Softwarekennis
 |BOB boekhoud programma|noties|
 Contactinformatie
 -------
-Basiel Smitz
-
+>Basiel Smitz
 Molenaarsstraat 21 
-
 9000 Ghent
-
 basiel.smitz@student.arteveldehs.be
