@@ -2,11 +2,13 @@ New Media Design & Development
 ================
 Github Repository voor het OLOD NMDAD-I
 
-Documenten
---------
+#Documenten
+
 * [resume](resume.md)
-Auteurs
--------
+
+#Auteurs
+
+
 **Basiel Smitz**
 [GitHub Account](https://github.com/basismit)
 [Bitbucket Account](https://bitbucket.org/basismit/)
